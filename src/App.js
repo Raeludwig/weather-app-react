@@ -4,16 +4,26 @@ import axios from "axios";
 function App() {
   const [data, setData] = useState({});
   const [location, setLocation] = useState("");
-  // const [weatherData] = useState(null);
+  const [error, setError] = useState("");
+
 
   const url = `https://api.openweathermap.org/data/2.5/weather?q=${location}&units=imperial&appid=f4cc82078e0999601d888c5956e645ef`;
 
   const searchLocation = (event) => {
     if (event.key === "Enter") {
       axios.get(url).then((response) => {
-        setData(response.data);
-        console.log(response.data);
+        if (response.data.cod && response.data.cod !== 200) {
+          // If the API response contains an error message
+          setError("Invalid city name. Please try again.");
+        } else {
+          setData(response.data);
+          setError(""); // Clear the error message if the data is valid
+        }
+      }).catch(() => {
+        // If an error occurs during the API request
+        setError("Error fetching data. Please make sure you spelled the city name correctly.");
       });
+  
       setLocation("");
     }
   };
@@ -23,10 +33,10 @@ function App() {
       return "default";
     }
 
-    // Here you can determine the weather type based on the weather data
+    // determine the weather type based on the weather data
     const weatherType = data.weather[0].main.toLowerCase();
 
-    // Return the weather type, e.g., 'clear', 'rainy', 'cloudy', etc.
+    // Return the weather type
     return weatherType;
   };
 
@@ -41,7 +51,7 @@ function App() {
           type="text"
         />
       </div>
-
+      {error && <p className="error-message">{error}</p>}
       <div className="container">
         <div className="top">
           <div className="location">
@@ -73,7 +83,7 @@ function App() {
             </div>
           </div>
         )}
-      </div>
+       </div>
     </div>
   );
 }
