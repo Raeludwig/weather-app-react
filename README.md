@@ -1,3 +1,20 @@
+
+
+
+
+
+
+Photo Credit to:
+NOAA Photo Library [National Oceanic and Atmospheric Administration](https://www.photolib.noaa.gov/)
+[LeicestershireLive](https://www.leicestermercury.co.uk/news/local-news/leicestershires-weather-forecast-sunny-weather-6857331)
+[Southern Living](https://www.southernliving.com/tk-things-only-southerners-say-about-the-weather-6827978)
+[The New York Times](https://static01.nyt.com/images/2019/11/26/us/26holiday-weather01sub/26holiday-weather01sub-superJumbo.jpg)
+[Wallpaper Access](https://wallpaperaccess.com/cloudy-landscape)
+
+
+[]: # Path: README.md
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
