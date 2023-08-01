@@ -51,17 +51,15 @@ MIT
 https://raeludwig.github.io/Raes-portfolio/
 
 ## Examples
-![image](https://github.com/Raeludwig/forked-moon-dollars/assets/118871515/6f346797-ffce-41d6-affb-4bd6126f6bbe)
+![image](https://github.com/Raeludwig/weather-app-react/assets/118871515/a086bdfe-0660-4af3-804c-c3d634baa462)
 
-![image](https://github.com/Raeludwig/forked-moon-dollars/assets/118871515/d87b5590-cb1a-48a8-9637-7a60f678b25e)
+![image](https://github.com/Raeludwig/weather-app-react/assets/118871515/f9ff7a43-d7de-435b-9c6b-ac30d9541e19)
 
-![image](https://github.com/Raeludwig/forked-moon-dollars/assets/118871515/f4091c06-75bf-4411-9a10-cc662b7b6179)
+![image](https://github.com/Raeludwig/weather-app-react/assets/118871515/ba1a47af-2aa2-4425-baed-95228d8c3c77)
 
-![image](https://github.com/Raeludwig/forked-moon-dollars/assets/118871515/a9da2492-f613-4bf1-95c1-873996cc989d)
+![image](https://github.com/Raeludwig/weather-app-react/assets/118871515/9567db88-8d5a-4bd3-8ba9-4a9ec6023a17)
 
-
-
-
+![image](https://github.com/Raeludwig/weather-app-react/assets/118871515/7224097e-0042-4b3e-bb6d-afcf0577cf7a)
 
 Photo Credit to:
 NOAA Photo Library [National Oceanic and Atmospheric Administration](https://www.photolib.noaa.gov/)
@@ -71,7 +69,7 @@ NOAA Photo Library [National Oceanic and Atmospheric Administration](https://www
 [Wallpaper Access](https://wallpaperaccess.com/cloudy-landscape)
 
 
-[]: # Path: README.md
+
 
 
 # Getting Started with Create React App

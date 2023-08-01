@@ -20,14 +20,16 @@ body {
 
 p{
   font-size: 5vw;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 p.city{
-  font-size: 15vw;
+  font-size: 10vw;
 }
 
 h1{
-  font-size: 15vw;
+  font-size: 10vw;
 }
 
 .app{
