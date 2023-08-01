@@ -55,7 +55,7 @@ function App() {
       <div className="container">
         <div className="top">
           <div className="location">
-            <p>{data.name}</p>
+            <p className="city">{data.name}</p>
           </div>
           <div className="temp">
             {data.main ? <h1>{data.main.temp.toFixed()} °F</h1> : null}
