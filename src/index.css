@@ -55,9 +55,15 @@ h1{
   font-size: 1.2rem;
   border-radius: 25px;
   border: 1px solid rgba(255, 255 ,255,0.2);
-  background:rgba(255,255,255,0.1);
-  color: #f8f8f8;
+  background:rgba(255,255,255,0.5);
+  color: black;
 }
+
+/* Target the input element and style its placeholder text */
+.app input::placeholder {
+  color: black; 
+}
+
 
 ::placeholder{
   color: #f8f8f8;
@@ -117,6 +123,7 @@ background-color: rgba(255,255,255,0.2);
 /* Rainy weather background */
 .app.rain {
   background-image: url('https://www.southernliving.com/thmb/APmZDoQ9oDZHExf6dubVDsvzz14=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1383026300-c9979ab93b1b4571a3ef3b36ccf50bb4.jpg');
+  color:black;
 }
 
 /* Cloudy weather background */
