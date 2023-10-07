@@ -5,8 +5,8 @@ Weather Application
   <br>
 </h1>
 
-<h4 align="center"> A simple weather app with a few additions</h4>
-
+<h4 align="center"> A simple weather app with a few fun additions</h4>
+https://raeludwig.github.io/weather-app-react/
 
 <p align="center">
   <a href="#description">Description</a> •
