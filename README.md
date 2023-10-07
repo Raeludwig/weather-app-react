@@ -7,7 +7,6 @@ Weather Application
 
 <h4 align="center"> A simple weather app with a few fun additions</h4>
 
-
 <p align="center">
   <a href="#deployment">Deployment</a>•  
   <a href="#description">Description</a> •
