@@ -6,18 +6,20 @@ Weather Application
 </h1>
 
 <h4 align="center"> A simple weather app with a few fun additions</h4>
-[here](https://raeludwig.github.io/weather-app-react/)
+
 
 <p align="center">
+  <a href="#deployment">Deployment</a>•  
   <a href="#description">Description</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#license">License</a>•
-  <a href="#deployment">Deployment</a>•
+
   <a href="#examples">Examples</a>
 </p>
 
 
-
+## Deployment
+https://raeludwig.github.io/weather-app-react/
 
 ## Description
 
@@ -47,8 +49,7 @@ $ npm run deploy
 MIT
 
 ---
-## Deployment
-https://raeludwig.github.io/weather-app-react/
+
 
 ## Examples
 ![image](https://github.com/Raeludwig/weather-app-react/assets/118871515/a086bdfe-0660-4af3-804c-c3d634baa462)
