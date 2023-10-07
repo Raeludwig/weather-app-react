@@ -6,7 +6,7 @@ Weather Application
 </h1>
 
 <h4 align="center"> A simple weather app with a few fun additions</h4>
-https://raeludwig.github.io/weather-app-react/
+[here](https://raeludwig.github.io/weather-app-react/)
 
 <p align="center">
   <a href="#description">Description</a> •
@@ -48,7 +48,7 @@ MIT
 
 ---
 ## Deployment
-https://raeludwig.github.io/Raes-portfolio/
+https://raeludwig.github.io/weather-app-react/
 
 ## Examples
 ![image](https://github.com/Raeludwig/weather-app-react/assets/118871515/a086bdfe-0660-4af3-804c-c3d634baa462)
